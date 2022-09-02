@@ -1,0 +1,19 @@
+encoding stage 1: quadruplet generation
+start: 1662037110.9629474
+end: 1662041411.5065103
+total: 4300.5s
+
+encoding stage 2: feature encoding
+start: 1662047558.869371
+end: 1662050685.4955282
+total: 3126.6s
+
+embedding
+start: 1662086612.5390096
+end: 1662087303.62697
+total: 691.1s
+
+query
+start: 1662088686.320961
+end: 1662091439.6795378
+total: 2753.4s
